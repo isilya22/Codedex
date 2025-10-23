@@ -52,5 +52,3 @@ print ('Slytherin', Slytherin)
 print ('Ravenclaw', Ravenclaw)
 print ('Hufflepuff', Hufflepuff)
 
-if Gryffindor > Slytherin and Gryffindor > Ravenclaw and Gryffindor > Hufflepuff:
-  print ('Congrats ! You are in Gryffindor')
